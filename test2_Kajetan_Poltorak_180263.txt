@@ -1,0 +1,4 @@
+testowy1:A
+testowy2:N
+testowy3:tT
+
